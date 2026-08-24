@@ -13,6 +13,23 @@ Proyecto web desarrollado como parte del Trabajo Práctico Integrador de Program
 
 ---
 
+Tecnologías Utilizadas
+HTML5: Estructura semántica del sitio.
+
+CSS3: Flexbox, CSS Grid y Variables CSS (:root).
+
+JavaScript (ES6+): Métodos de arrays (forEach), template literals y manipulación del DOM.
+
+- Cómo ejecutar el proyecto
+
+
+Clona este repositorio:
+Bash
+git clone [https://github.com/TU-USUARIO/TU-REPOSITORIO.git](https://github.com/TU-USUARIO/TU-REPOSITORIO.git)
+Abre la carpeta en tu editor de código preferido (ej. VS Code).
+
+Abre el archivo index.html en tu navegador web o ejecútalo mediante la extensión Live Server.
+
 ## Estructura del Proyecto
 
 ```text
